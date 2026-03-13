@@ -1,4 +1,4 @@
-# Proiect SCIA: Analiza și Simularea Filtrelor Active Trece-Jos
+# Proiect: Analiza și Simularea Filtrelor Active Trece-Jos
 1. Descriere Generală
 Acest proiect prezintă proiectarea și validarea unor filtre active Trece-Jos (TJ) cu frecvența de tăiere de 400 Hz, utilizând aproximațiile Butterworth și Chebyshev. Proiectul urmărește tranziția de la calcule matematice ideale la circuite electronice funcționale.
 
